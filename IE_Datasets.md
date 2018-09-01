@@ -7,7 +7,15 @@
   |train|945 |203,000|
   |dev|216 |51,000|
   |test| 231| 46,000|
-  
+
+## The Reidel dataset
+- Method: Distant supervision 
+- Corpus: Freebase
+- Articles: New York Times corpus(NYT)
+- NER: Stanford NER
+- Relation: 52 & NA
+
+
 ## The CMU Seminar Announcements Task
 - **Content：** It consists of 485 emails containing seminar announcements at Carnegie Mellon University.
 It is annotated for four fields: *speaker*, *location*, *start time*, and *end time*. 
