@@ -15,6 +15,11 @@
 - NER: Stanford NER
 - Relation: 52 & NA
 
+## SemEval-2010 Task 8
+
+## NYT10
+
+## TAC-KBP ESF
 
 ## The CMU Seminar Announcements Task
 - **Content：** It consists of 485 emails containing seminar announcements at Carnegie Mellon University.
