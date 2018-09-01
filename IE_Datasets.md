@@ -16,7 +16,8 @@
 - Relation: 52 & NA
 
 ## SemEval-2010 Task 8
-
+- Relation： 10
+- tokens：10717
 ## NYT10
 
 ## TAC-KBP ESF
