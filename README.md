@@ -31,7 +31,7 @@
 |Task|parsing、image caption -> Machine Translation|
 |Reduction|language model|
 |Model|seq2seq with multiple encoder/decoder|
-|Traning|[Alternating Traning](https://www.aclweb.org/anthology/P/P15/P15-1166.pdf)| 
+|Traning|[Alternating Traning](https://www.aclweb.org/anthology/P/P15/P15-1166.pdf) + fine-tuning| 
 
 **Adding multiple tasks to a single network by iterative pruning** [(pdf)](https://arxiv.org/pdf/1711.05769.pdf)
 
