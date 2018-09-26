@@ -21,3 +21,14 @@
 |Reduction|probability model|
 |Model|5-layer-hierachical-LSTM + separate softmax|
 |Traning|Fully Joint| 
+
+
+**Multi-task sequence to sequence learning.** [(pdf)](https://arxiv.org/pdf/1511.06114.pdf)
+
+**Adding multiple tasks to a single network by iterative pruning** [(pdf)](https://arxiv.org/pdf/1711.05769.pdf)
+
+**Multi-reward reinforced summarization with saliency and entailment.** [(pdf)](https://arxiv.org/pdf/1804.06451.pdf)
+
+**Glue: A multi-task benchmark and analysis platform for natural language understanding.** [(pdf)](https://arxiv.org/pdf/1804.07461.pdf)
+
+**Google’s multilingual neural machine translation system: Enabling zero-shot translation.**[(pdf)](https://arxiv.org/pdf/1611.04558.pdf)
