@@ -1,4 +1,4 @@
-# Datasets for Information Extraction
+# Datasets for Relation Extraction
 ## CoNLL 2003
 - **Content：** The English data is a collection of Reuters newswire articles(路透社新闻) annotated with four entity types: person(PER), location(LOC), organization(ORG), and miscellaneous(MISC).  
 
