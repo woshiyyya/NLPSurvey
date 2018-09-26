@@ -1,7 +1,7 @@
 # NLPSurvey
 ## Multitask Learning in NLP
 
-A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning [(pdf)](https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf)
+**A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning** [(pdf)](https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf)
 
 |||
 |--|--|
@@ -12,4 +12,4 @@ A Unified Architecture for Natural Language Processing: Deep Neural Networks wit
 |Traning|Fully Joint| 
  
  
-A Joint Many-Task Model:Growing a Neural Network for Multiple NLP Tasks [(pdf)](https://arxiv.org/pdf/1611.01587.pdf)
+**A Joint Many-Task Model:Growing a Neural Network for Multiple NLP Tasks** [(pdf)](https://arxiv.org/pdf/1611.01587.pdf)
