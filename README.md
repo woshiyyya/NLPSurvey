@@ -13,3 +13,11 @@
  
  
 **A Joint Many-Task Model:Growing a Neural Network for Multiple NLP Tasks** [(pdf)](https://arxiv.org/pdf/1611.01587.pdf)
+
+|||
+|--|--|
+|publication|2016 ICLR|
+|Task|POS-tag、Chunking、Dependency Parsing、Relatedness、Entailment|
+|Reduction|probability model|
+|Model|5-layer-hierachical-LSTM + separate softmax|
+|Traning|Fully Joint| 
